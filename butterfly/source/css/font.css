@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'Monaco';
+    font-display: swap;
+    src: url('../font/Monaco.ttf') format("truetype");
+}
+
+@font-face{
+    font-family: 'FiraCode-Regular';
+    font-display: swap;
+    src: url('../font/FiraCode-Regular.ttf') format("truetype");
+}
+
+body {
+    font-family: "Monaco", 'FiraCode-Regular';
+}
+
